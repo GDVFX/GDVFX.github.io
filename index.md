@@ -4,12 +4,11 @@
 ## Contacto:
 Correo: gseguratuneu@gmail.com
 
-Telefono: 672671854
+Teléfono: 672671854
 
 Localidad: Cornellá de Llobregat, Barcelona
 
 ## Habilidades:
-
 - Buenas habilidades comunicativas.
 
 - Persona activa y deportista.
@@ -18,3 +17,15 @@ Localidad: Cornellá de Llobregat, Barcelona
 creativos.
 
 - Puntual y respetuoso.
+
+## Estudios:
+Educación Secundaria Obligatoria - Institucio Montserrat (2017- 2021)
+
+Grado Medio SMX - IFP Planeta (2021- 2023)
+
+## Idiomas:
+Catalan: Nativo
+
+Español: Nativo
+
+Inglés: Avanzado (B2)
